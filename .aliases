@@ -1,0 +1,13 @@
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+alias gs='git status'
+alias gpu='git pull'
+alias gsubup='git submodule update --init --recursive'
+alias gd='git diff'
+alias ga='git add'
+
+alias pver='pip freeze | grep $1'
+alias pa='ps aux | grep $1'
+
